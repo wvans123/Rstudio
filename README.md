@@ -1,2 +1,2 @@
 # Rstudio
-study r and
+study r & rstudio
